@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap");
+.slider-title {
+  letter-spacing: 5px;
+  font-size: 3.5em;
+}
+/* body {
+  font-family: "Poppins", sans-serif !important;
+} */
+
+.fill-icon {
+  background-color: #5243c2;
+}
+
+.plan-button {
+  background-color: rgba(244, 150, 210, 0.103);
+  color: #3f87f5;
+}
+
+.hot-plan {
+  background-color: #3f87f5;
+  border-radius: 26px;
+}
