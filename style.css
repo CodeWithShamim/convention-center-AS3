@@ -11,6 +11,11 @@
   background-color: #5243c2;
 }
 
+.img-style {
+  color: rgba(19, 18, 18, 0.166);
+  opacity: 0.6;
+}
+
 .plan-button {
   background-color: rgba(244, 150, 210, 0.103);
   color: #3f87f5;
@@ -19,4 +24,8 @@
 .hot-plan {
   background-color: #3f87f5;
   border-radius: 26px;
+}
+
+.custom-m {
+  margin-top: 6em;
 }
