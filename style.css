@@ -12,7 +12,7 @@
 }
 
 .slider-img-style {
-  opacity: 0.8;
+  background-color: black;
   height: calc(100vh - 90px);
   object-fit: cover;
 }
