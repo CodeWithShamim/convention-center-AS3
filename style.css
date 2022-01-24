@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap");
 .slider-title {
-  letter-spacing: 5px;
-  font-size: 3.5em;
+  letter-spacing: 4px;
+  font-size: 3em;
 }
 /* body {
   font-family: "Poppins", sans-serif !important;
@@ -29,4 +29,11 @@
 
 .custom-m {
   margin-top: 6em;
+}
+
+/* toast  */
+.t-custom-border {
+  border-left: 8px solid #3f87f5 !important;
+  /* border-image: linear-gradient(#3f87f5, #70a4f3) 27 !important; */
+  border-image-slice: 2;
 }
