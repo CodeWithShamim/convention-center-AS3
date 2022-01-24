@@ -11,9 +11,10 @@
   background-color: #5243c2;
 }
 
-.img-style {
-  color: rgba(19, 18, 18, 0.166);
-  opacity: 0.6;
+.slider-img-style {
+  opacity: 0.8;
+  height: calc(100vh - 90px);
+  object-fit: cover;
 }
 
 .plan-button {
