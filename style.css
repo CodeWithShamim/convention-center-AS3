@@ -37,3 +37,11 @@
   /* border-image: linear-gradient(#3f87f5, #70a4f3) 27 !important; */
   border-image-slice: 2;
 }
+
+/* Client feedback section  */
+.card img {
+  width: 150px;
+  width: 100px;
+  margin: 0 auto;
+  padding: 10px;
+}
