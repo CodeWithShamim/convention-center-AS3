@@ -12,9 +12,15 @@
 }
 
 .slider-img-style {
-  background-color: black;
   height: calc(100vh - 90px);
   object-fit: cover;
+}
+
+/* Gallery section */
+.gallery-border {
+  border-bottom: 5px dashed rgb(116, 116, 116);
+  width: 160px;
+  margin: 0 auto;
 }
 
 .plan-button {
